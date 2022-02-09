@@ -69,7 +69,7 @@ exports.adminAlready = () => {
 }
 
 exports.botNotAdmin = () => {
-    return `Jadikan bot sebagai admin terlebih dahulu! 🙏`
+    return `Anda Admin Bukan?, Bukan, Pantes Gak Bisa, Makanya Naik Jabatan Tod🤣 !`
 }
 
 exports.received = (pushname) => {
